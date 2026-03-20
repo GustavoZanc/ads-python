@@ -57,13 +57,11 @@ ads-python/
 
 -----
 
-## 💡 Sobre este repositório
+## Sobre:
 
 Este repositório acompanha minha evolução desde o início do curso. Cada pasta representa um módulo ou tema estudado, com exercícios práticos e anotações pessoais.
 
-O objetivo de longo prazo é migrar para a área de **Ciência de Dados e Inteligência Artificial** 🤖📊
 
------
 
 <div align="center">
 
